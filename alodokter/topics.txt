@@ -1,0 +1,1331 @@
+Ablasi Retina - ablasi-retina
+Aborsi - aborsi
+Abortus Imminens - abortus-imminens
+Abses - abses
+Abses Anus - abses-anus
+Abses Gigi - abses-gigi
+Abses Otak - abses-otak
+Abses Paru - abses-paru
+Abses Payudara - abses-payudara
+Acetylcysteine - acetylcysteine
+Acute Respiratory Distress Syndrome - acute-respiratory-distress-syndrome
+Acyclovir - acyclovir
+Adenomiosis - adenomiosis
+Adhd - adhd
+Adhesi Usus - adhesi-usus
+Afasia - afasia
+Agoraphobia - agoraphobia
+Aids - aids
+Akalasia - akalasia
+Albendazole - albendazole
+Albinisme - albinisme
+Albumin - albumin
+Alergi - alergi
+Alergi Cuaca - alergi-cuaca
+Alergi Dingin - alergi-dingin
+Alergi Kulit - alergi-kulit
+Alergi Makanan - alergi-makanan
+Alergi Obat - alergi-obat
+Alergi Susu - alergi-susu
+Alkohol - alkohol
+Allopurinol - allopurinol
+Alopecia Areata - alopecia-areata
+Alprazolam - alprazolam
+Aluminium Hidroksida - aluminium-hidroksida
+Alzheimer - alzheimer
+Amandel - amandel
+Ambroxol - ambroxol
+Amebiasis - amebiasis
+Amenorrhea - amenorrhea
+Aminofilin - aminofilin
+Amitriptyline - amitriptyline
+Amlodipine - amlodipine
+Amnesia - amnesia
+Amoxicillin - amoxicillin
+Ampicillin - ampicillin
+Amputasi - amputasi
+Anak - anak
+Analgetik Antipiretik - analgetik-antipiretik
+Anemia - anemia
+Anemia Aplastik - anemia-aplastik
+Anemia Defisiensi Besi - anemia-defisiensi-besi
+Anemia Defisiensi Vitamin B12 Dan Folat - anemia-defisiensi-vitamin-b12-dan-folat
+Anemia Hemolitik - anemia-hemolitik
+Anemia Sel Sabit - anemia-sel-sabit
+Aneurisma - aneurisma
+Aneurisma Aorta - aneurisma-aorta
+Aneurisma Otak - aneurisma-otak
+Angin Duduk - angin-duduk
+Angina Pektoris - angina-pektoris
+Angioedema - angioedema
+Angiografi - angiografi
+Anhidrosis - anhidrosis
+Ankylosing Spondylitis - ankylosing-spondylitis
+Anoreksia - anoreksia
+Anosmia - anosmia
+Antasida - antasida
+Antibiotik - antibiotik
+Antidepresan - antidepresan
+Antihistamin - antihistamin
+Antijamur - antijamur
+Antikoagulan - antikoagulan
+Antikonvulsan - antikonvulsan
+Antioksidan - antioksidan
+Antiplatelet - antiplatelet
+Antipsikotik - antipsikotik
+Antitetanus - antitetanus
+Anus Gatal - anus-gatal
+Aritmia - aritmia
+Artritis - artritis
+Asam Lambung - asam-lambung
+Asam Mefenamat - asam-mefenamat
+Asam Salisilat - asam-salisilat
+Asam Traneksamat - asam-traneksamat
+Asam Urat - asam-urat
+Asam Valproat - asam-valproat
+Asi - asi
+Asidosis - asidosis
+Asites - asites
+Asma - asma
+Aspirasi Sumsum Tulang - aspirasi-sumsum-tulang
+Aspirin - aspirin
+Astaxanthin - astaxanthin
+Astigmatisme - astigmatisme
+Asuransi - asuransi
+Asuransi Kesehatan Karyawan - asuransi-kesehatan-karyawan
+Ataksia - ataksia
+Ataksia - ataxia
+Ateroma - ateroma
+Aterosklerosis - aterosklerosis
+Atorvastatin - atorvastatin
+Atresia Ani - atresia-ani
+Atrofi Otot - atrofi-otot
+Attapulgite - attapulgite
+Autisme - autisme
+Autoimun - autoimun
+Azithromycin - azithromycin
+Bab Berdarah - bab-berdarah
+Balanitis - balanitis
+Barotrauma - barotrauma
+Batu Empedu - batu-empedu
+Batu Ginjal - batu-ginjal
+Batu Kandung Kemih - batu-kandung-kemih
+Batu Kelenjar Air Liur - batu-kelenjar-air-liur
+Batu Saluran Kemih - batu-saluran-kemih
+Batuk - batuk
+Batuk Berdahak - batuk-berdahak
+Batuk Berdarah - batuk-berdarah
+Batuk Darah - batuk-darah
+Batuk Kering - batuk-kering
+Batuk Kronis - batuk-kronis
+Batuk Pilek - batuk-pilek
+Batuk Rejan - batuk-rejan
+Bau - bau
+Bau Badan - bau-badan
+Bau Mulut - bau-mulut
+Bayi - bayi
+Bayi Tabung - bayi-tabung
+Bedah Mulut - bedah-mulut
+Bedah Ortopedi - bedah-ortopedi
+Bedah Plastik - bedah-plastik
+Bedah Saraf - bedah-saraf
+Bekas Luka - bekas-luka
+Bell's Palsy - bells-palsy
+Bengkak - bengkak
+Benjolan - benjolan
+Benjolan Payudara - benjolan-payudara
+Benzodiazepine - benzodiazepine
+Benzoyl Peroxide - benzoyl-peroxide
+Berat Badan Berlebih - berat-badan-berlebih
+Berat Badan Lahir Rendah - berat-badan-lahir-rendah
+Bersalin - bersalin
+Besi - besi
+Betahistine - betahistine
+Betametason - betametason
+Betametason Topikal - betametason-topikal
+Biang Keringat - biang-keringat
+Bibir - bibir
+Bibir Sumbing - bibir-sumbing
+Bidai Tulang Kering - bidai-tulang-kering
+Biduran - biduran
+Bintitan - bintitan
+Biopsi Mulut - biopsi-mulut
+Biotin - biotin
+Bipolar - bipolar
+Bisacodyl - bisacodyl
+Bisoprolol - bisoprolol
+Bisul - bisul
+Blefaritis - blefaritis
+Blighted Ovum - blighted-ovum
+Botak - botak
+Bpd - bpd
+Bph - bph
+Bradikardia - bradikardia
+Bromhexine - bromhexine
+Bromocriptine - bromocriptine
+Bronkiektasis - bronkiektasis
+Bronkiolitis - bronkiolitis
+Bronkitis - bronkitis
+Bronkodilator - bronkodilator
+Bruxism - bruxism
+Bulimia - bulimia
+Bunion - bunion
+Bunuh Diri - bunuh-diri
+Bursitis - bursitis
+Buta - buta
+Buta Warna - buta-warna
+Cabut Gigi - cabut-gigi
+Cacar Air - cacar-air
+Cacar Monyet - cacar-monyet
+Cacing Kremi - cacing-kremi
+Cacingan - cacingan
+Campak - campak
+Candesartan - candesartan
+Candidiasis - candidiasis
+Cantengan - cantengan
+Captopril - captopril
+Carbamazepine - carbamazepine
+Carpal Tunnel Syndrome - carpal-tunnel-syndrome
+Cedera - cedera
+Cedera Hamstring - cedera-hamstring
+Cedera Kepala - cedera-kepala
+Cedera Kepala Berat - cedera-kepala-berat
+Cedera Kepala Ringan - cedera-kepala-ringan
+Cedera Ligamen Lutut Anterior - cedera-ligamen-lutut-anterior
+Cedera Otot - cedera-otot
+Cedera Saraf Tulang Belakang - cedera-saraf-tulang-belakang
+Cefadroxil - cefadroxil
+Cefixime - cefixime
+Cegukan - cegukan
+Cek Golongan Darah - cek-golongan-darah
+Cerebral Palsy - cerebral-palsy
+Cetirizine - cetirizine
+Chikungunya - chikungunya
+Chlamydia - chlamydia
+Chloramphenicol - chloramphenicol
+Chlorpheniramine - chlorpheniramine
+Chlorpromazine - chlorpromazine
+Cimetidine - cimetidine
+Ciprofloxacin - ciprofloxacin
+Citicoline - citicoline
+Clindamycin - clindamycin
+Clobazam - clobazam
+Clomifene - clomifene
+Clonazepam - clonazepam
+Clonidine - clonidine
+Clopidogrel - clopidogrel
+Clotrimazole - clotrimazole
+Clozapine - clozapine
+Codeine - codeine
+Craniosynostosis - craniosynostosis
+Crohn's Disease - crohns-disease
+Croup - croup
+Ct Scan - ct-scanning
+Cuci Darah - cuci-darah
+Cutaneous Larva Migrans - cutaneous-larva-migrans
+Cystic Fibrosis - cystic-fibrosis
+Cystitis - cystitis
+Cytomegalovirus - cytomegalovirus
+Darah - darah
+Deep Vein Thrombosis - deep-vein-thrombosis
+Defek Septum Ventrikel - defek-septum-ventrikel
+Defisiensi G6 Pd - defisiensi-g6pd
+Degenerasi Makula - degenerasi-makula
+Dehidrasi - dehidrasi
+Dekongestan - dekongestan
+Delirium - delirium
+Demam - demam
+Demam Berdarah - demam-berdarah
+Demam Pada Anak - demam-pada-anak
+Demam Rematik - demam-rematik
+Demensia - demensia
+Depresi - depresi
+Dermatitis - dermatitis
+Dermatitis Atopik - dermatitis-atopik
+Dermatitis Kontak - dermatitis-kontak
+Dermatitis Kontak Iritan - dermatitis-kontak-iritan
+Dermatitis Numularis - dermatitis-numularis
+Dermatitis Seboroik - dermatitis-seboroik
+Dermatographia - dermatographia
+Desoximetasone - desoximetasone
+Dexamethasone - dexamethasone
+Dextromethorphan - dextromethorphan
+Diabetes - diabetes
+Diabetes Gestasional - diabetes-gestasional
+Diabetes Insipidus - diabetes-insipidus
+Diabetes Tipe 1 - diabetes-tipe-1
+Diabetes Tipe 2 - diabetes-tipe-2
+Diare - diare
+Diazepam - diazepam
+Diclofenac - diclofenac
+Diet - diet
+Difteri - difteri
+Digoxin - digoxin
+Dimenhydrinate - dimenhydrinate
+Disentri - disentri
+Disfagia - disfagia
+Disfungsi Ereksi - disfungsi-ereksi
+Disfungsi Seksual - disfungsi-seksual
+Disleksia - disleksia
+Dislokasi - dislokasi
+Dislokasi Bahu - dislokasi-bahu
+Dispareunia - dispareunia
+Dispepsia - dispepsia
+Diuretik - diuretik
+Diverkulitis - diverkulitis
+Divertikulitis - divertikulitis
+Domperidone - domperidone
+Donor Darah - donor-darah
+Down Syndrome - down-syndrome
+Doxycycline - doxycycline
+Dry Socket - dry-socket
+Disartria - dysartria
+Dyspareunia - dyspareunia
+Dystonia - dystonia
+E. Coli - e-coli
+Ebola - ebola
+Edema - edema
+Edema Ekstremitas - edema-ekstremitas
+Edema Paru - edema-paru
+Efusi Perikardium - efusi-perikardium
+Efusi Pleura - efusi-pleura
+Ejakulasi Dini - ejakulasi-dini
+Ekokardiografi - ekokardiografi
+Eksim - eksim
+Elektrokardiografi - elektrokardiografi
+Emboli - emboli
+Emboli Paru - emboli-paru
+Emfisema - emfisema
+Endokarditis - endokarditis
+Endometriosis - endometriosis
+Endoskopi - endoskopi
+Ensefalopati - ensefalopati
+Entropion - entropion
+Eperisone - eperisone
+Epididimitis - epididimitis
+Epiglotitis - epiglotitis
+Epilepsi - epilepsi
+Episkleritis - episkleritis
+Erosi Serviks - erosi-serviks
+Erythromycin - erythromycin
+Esofagitis - esofagitis
+Estradiol - estradiol
+Estrogen - estrogen
+Eswl - eswl
+Ethambutol - ethambutol
+Faringitis - faringitis
+Fasikulasi - fasikulasi
+Fatty Liver - fatty-liver
+Fenilketonuria - fenilketonuria
+Fenofibrate - fenofibrate
+Fibroadenoma - fibroadenoma
+Fibromyalgia - fibromyalgia
+Fibrosis Paru - fibrosis-paru
+Filariasis - filariasis
+Fimosis - fimosis
+Finasteride - finasteride
+Fisioterapi - fisioterapi
+Fistula Ani - fistula-ani
+Fisura Ani - fisura-ani
+Flek Hitam - flek-hitam
+Floaters - floaters
+Flu - flu
+Flu Burung - flu-burung
+Flu Singapura - flu-singapura
+Fluconazole - fluconazole
+Fluoxetine - fluoxetine
+Fobia - fobia
+Folikulitis - folikulitis
+Foto Rontgen - foto-rontgen
+Fotofobia - fotofobia
+Frozen Shoulder - frozen-shoulder
+Furosemide - furosemide
+Furunkel - furunkel
+Gabapentin - gabapentin
+Gagal Ginjal - gagal-ginjal
+Gagal Ginjal Akut - gagal-ginjal-akut
+Gagal Hati - gagal-hati
+Gagal Jantung - gagal-jantung
+Gagap - gagap
+Ganggguan Pencernaan - ganggguan-pencernaan
+Gangguan Elektrolit - gangguan-elektrolit
+Gangguan Jiwa - gangguan-jiwa
+Gangguan Kecemasan Sosial - gangguan-kecemasan-sosial-1
+Gangguan Kecemasan Umum - gangguan-kecemasan-umum
+Gangguan Kehamilan - gangguan-kehamilan
+Gangguan Kepribadian - gangguan-kepribadian
+Gangguan Makan - gangguan-makan
+Gangguan Mental - gangguan-mental
+Gangguan Metabolik - gangguan-metabolik
+Gangguan Panik - gangguan-panik
+Gangguan Pencernaan - gangguan-pencernaan
+Gangguan Pendengaran - gangguan-pendengaran
+Gangguan Penglihatan - gangguan-penglihatan
+Gangguan Pernapasan - gangguan-pernapasan
+Gangguan Tidur - gangguan-tidur
+Gangguan Tidur Berjalan - gangguan-tidur-berjalan
+Ganglion - ganglion
+Gangrene - gangrene
+Gastric Volvulus - gastric-volvulus
+Gastritis - gastritis
+Gastroenteritis - gastroenteritis
+Gastroparesis - gastroparesis
+Gastroschisis - gastroschisis
+Gatal - gatal
+Gawat Janin - gawat-janin
+Gegar Otak - gegar-otak
+Gemetar - gemetar
+Gendang Telinga Pecah - gendang-telinga-pecah
+Genetik - genetik
+Gentamicin - gentamicin
+Gerd - gerd
+Giardiasis - giardiasis
+Gigantisme - gigantisme
+Gigi - gigi
+Gigi Berlubang - gigi-berlubang
+Gigi Bungsu - gigi-bungsu
+Gigi Palsu - gigi-palsu
+Gigi Sensitif - gigi-sensitif
+Gigitan Hewan - gigitan-hewan
+Gigitan Serangga - gigitan-serangga
+Ginekomastia - ginekomastia
+Gingivitis - gingivitis
+Gizi Buruk - gizi-buruk
+Glaukoma - glaukoma
+Glibenclamide - glibenclamide
+Glimepiride - glimepiride
+Glomerulonefritis - glomerulonefritis
+Golongan Darah - golongan-darah
+Gondok - gondok
+Gondongan - gondongan
+Gonore - gonore
+Griseofulvin - griseofulvin
+Gusi - gusi
+Gusi Bengkak - gusi-bengkak
+Gusi Berdarah - gusi-berdarah
+Haid - haid
+Haloperidol - haloperidol
+Halusinasi - halusinasi
+Hamil - hamil
+Hamil Anggur - hamil-anggur
+Hasil Lab - hasil-lab
+Hcg - hcg
+Hemangioma - hemangioma
+Hematochezia - hematochezia
+Hematoma - hematoma
+Hematuria - hematuria
+Hemiparesis - hemiparesis
+Hemofilia - hemofilia
+Hemoptisis - hemoptisis
+Henoch Schonlein Purpura - henoch-schonlein-purpura
+Henti Jantung Mendadak - henti-jantung-mendadak
+Heparin - heparin
+Hepatitis - hepatitis
+Hepatitis A - hepatitis-a
+Hepatitis B - hepatitis-b
+Hepatitis C - hepatitis-c
+Hepatomegali - hepatomegali
+Herbal - herbal
+Hernia - hernia
+Hernia Femoralis - hernia-femoralis
+Hernia Hiatus - hernia-hiatus
+Hernia Inguinalis - hernia-inguinalis
+Hernia Umbilikalis - hernia-umbilikalis
+Herpes - herpes
+Herpes Genital - herpes-genital
+Herpes Labialis - herpes-labialis
+Herpes Simpleks - herpes-simpleks
+Herpes Zoster - herpes-zoster
+Hidradenitis - hidradenitis
+Hidradenitis Suppurativa - hidradenitis-suppurativa
+Hidrokel - hidrokel
+Hidronefrosis - hidronefrosis
+Hidrosefalus - hidrosefalus
+Hidung - hidung
+Hidung Tersumbat - hidung-tersumbat
+Hifema - hifema
+Hilang Ingatan - hilang-ingatan
+Hiperemesis Gravidarum - hiperemesis-gravidarum
+Hiperhidrosis - hiperhidrosis
+Hiperkalemia - hiperkalemia
+Hiperkolesterolemia - hiperkolesterolemia
+Hiperpigmentasi - hiperpigmentasi
+Hiperprolaktinemia - hiperprolaktinemia
+Hipersalivasi - hipersalivasi
+Hipertensi - hipertensi
+Hipertensi Pulmonal - hipertensi-pulmonal
+Hipertermia - hipertermia
+Hipertiroid - hipertiroid
+Hipertiroidisme - hipertiroidisme
+Hipoglikemia - hipoglikemia
+Hipogonadisme - hipogonadisme
+Hipokalemia - hipokalemia
+Hipokondria - hipokondria
+Hipoksia - hipoksia
+Hiponatremia - hiponatremia
+Hipoplasia Uteri - hipoplasia-uteri
+Hipospadia - hipospadia
+Hipotensi - hipotensi
+Hipotensi Ortostatik - hipotensi-ortostatik
+Hipotermia - hipotermia
+Hipotiroid - hipotiroid
+Hipotiroidisme - hipotiroidisme
+Hirsutisme - hirsutisme
+Histerektomi - histerektomi
+Histerosalpingografi - histerosalpingografi
+Hitung Darah Lengkap - hitung-darah-lengkap
+Hiv - hiv
+Hnp (Hernia Nucleus Pulposus) - hnp-hernia-nucleus-pulposus
+Hordeolum - hordeolum
+Hormon - hormon
+Hpv - hpv
+Hpv Dna - hpv-dna
+Hubungan Intim - hubungan-intim
+Hydrocortisone - hydrocortisone
+Hydroquinone - hydroquinone
+Hypoalbuminemia - hypoalbuminemia
+Ibu Hamil - ibu-hamil
+Ibuprofen - ibuprofen
+Ileus Paralitik - ileus-paralitik
+Impaksi Gigi - impaksi-gigi-2
+Impetigo - impetigo
+Impotensi - impotensi
+Imunisasi - imunisasi
+Infeksi - infeksi
+Infeksi Bakteri - infeksi-bakteri
+Infeksi Cacing Tambang - infeksi-cacing-tambang
+Infeksi Gigi - infeksi-gigi
+Infeksi Ginjal - infeksi-ginjal
+Infeksi Gusi - infeksi-gusi
+Infeksi Helicobacter Pylori - infeksi-helicobacter-pylori
+Infeksi Jamur - infeksi-jamur
+Infeksi Kandung Kemih - infeksi-kandung-kemih
+Infeksi Kulit - infeksi-kulit
+Infeksi Luka Operasi - infeksi-luka-operasi
+Infeksi Mata - infeksi-mata
+Infeksi Menular Seksual - infeksi-menular-seksual
+Infeksi Parasit - infeksi-parasit
+Infeksi Payudara - infeksi-payudara
+Infeksi Rahim - infeksi-rahim
+Infeksi Rotavirus - infeksi-rotavirus
+Infeksi Saluran Kemih - infeksi-saluran-kemih
+Infeksi Saluran Pernapasan - infeksi-saluran-pernapasan
+Infeksi Telinga - infeksi-telinga
+Infeksi Usus - infeksi-usus
+Infeksi Virus - infeksi-virus
+Infertilitas - infertilitas
+Inflamasi - inflamasi
+Inkompatibilitas Rhesus - inkompatibilitas-rhesus
+Inkontinensia - inkontinensia
+Inkontinensia Urine - inkontinensia-urine
+Inseminasi - inseminasi
+Insomnia - insomnia
+Insulin Suntik - insulin-suntik
+Intim - intim
+Intim Laki Laki - intim-laki-laki
+Intim Wanita - intim-wanita
+Intoleransi Laktosa - intoleransi-laktosa
+Intususepsi - intususepsi
+Iritasi - iritasi
+Irritable Bowel Syndrome - irritable-bowel-syndrome
+Iskemia - iskemia
+Isoniazid - isoniazid
+Isotretinoin - isotretinoin
+Ispa - ispa
+Itp - itp
+Itraconazole - itraconazole
+Ivermectin - ivermectin1
+Jamur Kuku - jamur-kuku
+Jamur Kulit - jamur-kulit
+Jantung - jantung
+Jantung Berdebar - jantung-berdebar
+Jantung Berdebar - jantung-berdebar-debar
+Jerawat - jerawat
+Jerawat Hormonal - jerawat-hormonal
+Kafein - kafein
+Kaki - kaki
+Kaki Datar - kaki-datar
+Kaki Gajah - kaki-gajah
+Kalazion - kalazion
+Kalium - kalium
+Kalsium - kalsium
+Kanker - kanker
+Kanker Anus - kanker-anus
+Kanker Darah - kanker-darah
+Kanker Endometrium - kanker-endometrium
+Kanker Esofagus - kanker-esofagus
+Kanker Ginjal - kanker-ginjal
+Kanker Hati - kanker-hati
+Kanker Kandung Kemih - kanker-kandung-kemih
+Kanker Kantung Empedu - kanker-kantung-empedu
+Kanker Kolorektal - kanker-kolorektal
+Kanker Kulit - kanker-kulit
+Kanker Lambung - kanker-lambung
+Kanker Laring - kanker-laring
+Kanker Lidah - kanker-lidah
+Kanker Mata - kanker-mata
+Kanker Mulut - kanker-mulut
+Kanker Nasofaring - kanker-nasofaring
+Kanker Otak - kanker-otak
+Kanker Ovarium - kanker-ovarium
+Kanker Pankreas - kanker-pankreas
+Kanker Paru Paru - kanker-paru-paru
+Kanker Payudara - kanker-payudara
+Kanker Penis - kanker-penis
+Kanker Prostat - kanker-prostat
+Kanker Rahim - kanker-rahim
+Kanker Sarkoma Ewing - kanker-sarkoma-ewing
+Kanker Serviks - kanker-serviks
+Kanker Tenggorokan - kanker-tenggorokan
+Kanker Testis - kanker-testis
+Kanker Tiroid - kanker-tiroid
+Kanker Tulang - kanker-tulang
+Kanker Usus - kanker-usus
+Kanker Usus Besar - kanker-usus-besar
+Kanker Vagina - kanker-vagina
+Kanker Vulva - kanker-vulva
+Kantuk - kantuk
+Kapalan - kapalan
+Karang Gigi - karang-gigi
+Kardiomegali - kardiomegali
+Kardiomiopati - kardiomiopati
+Katarak - katarak
+Kateterisasi Jantung - kateterisasi-jantung
+Kebersihan - kebersihan
+Kebutaan - kebutaan
+Kecanduan Alkohol - kecanduan-alkohol
+Kecantikan - kecantikan
+Kecemasan - kecemasan
+Kedutan - kedutan
+Keguguran - keguguran
+Kehamilan - kehamilan
+Kehamilan Ektopik - kehamilan-ektopik
+Kehamilan Kembar - kehamilan-kembar
+Kejang - kejang
+Kejang Demam - kejang-demam
+Kelahiran - kelahiran
+Kelahiran Prematur - kelahiran-prematur
+Kelainan Darah - kelainan-darah
+Kelainan Genetik - kelainan-genetik
+Kelainan Kongenital - kelainan-kongenital
+Kelelahan - kelelahan
+Kelenjar Getah Bening - kelenjar-getah-bening
+Keloid - keloid
+Kelumpuhan - kelumpuhan
+Kembar Siam - kembar-siam
+Kemoterapi - kemoterapi
+Kepala - kepala
+Kepribadian Ganda - kepribadian-ganda
+Keputihan - keputihan
+Keracunan Bahan Kimia - keracunan-bahan-kimia
+Keracunan Insektisida - keracunan-insektisida
+Keracunan Makanan - keracunan-makanan
+Keracunan Merkuri - keracunan-merkuri
+Keratitis - keratitis
+Keratosis Pilaris - keratosis-pilaris
+Keratosis Seboroik - keratosis-seboroik
+Keringat - keringat
+Keringat Dingin - keringat-dingin
+Keriput - keriput
+Kerja - kerja
+Kesehatan - kesehatan
+Kesehatan Mental - kesehatan-mental
+Kesehatan Mulut - kesehatan-mulut
+Keseleo - keseleo
+Kesemutan - kesemutan
+Kesetrum - kesetrum
+Kesuburan - kesuburan
+Ketoasidosis Diabetik - ketoasidosis-diabetik
+Ketoconazole - ketoconazole
+Ketombe - ketombe
+Ketorolac - ketorolac
+Ketuban Pecah Dini - ketuban-pecah-dini
+Kifosis - kifosis
+Kista - kista
+Kista Baker - kista-baker
+Kista Bartholin - kista-bartholin
+Kista Bartholin - kista-bartholini
+Kista Dermoid - kista-dermoid
+Kista Epidermoid - kista-epidermoid
+Kista Ganglion - kista-ganglion
+Kista Gartner - kista-gartner
+Kista Ginjal - kista-ginjal
+Kista Kulit - kista-kulit
+Kista Ovarium - kista-ovarium
+Kista Payudara - kista-payudara
+Kista Pilonidal - kista-pilonidal
+Kleptomania - kleptomania
+Kolera - kolera
+Kolesistitis - kolesistitis
+Kolesterol - kolesterol
+Kolesterol Tinggi - kolesterol-tinggi
+Kolitis Ulseratif - kolitis-ulseratif
+Kolonoskopi - kolonoskopi
+Koma - koma
+Komedo - komedo
+Komedo Putih - komedo-putih
+Konjungtivitis - konjungtivitis
+Konstipasi - konstipasi
+Konsultasi Gizi Dan Pola Makan - konsultasi-gizi-dan-pola-makan
+Konsultasi Kehamilan - konsultasi-kehamilan
+Konsultasi Penyakit Dalam - konsultasi-penyakit-dalam
+Konsultasi Program Hamil - konsultasi-program-hamil
+Konsultasi Psikologi Anak - konsultasi-psikologi-anak
+Kontrasepsi - kontrasepsi
+Kontrasepsi Darurat - kontrasepsi-darurat
+Kortikosteroid - kortikosteroid
+Kosmetik - kosmetik
+Kostokondritis - kostokondritis
+Kotoran Telinga - kotoran-telinga
+Kotrimoksazol - kotrimoksazol
+Kram - kram
+Kriptorkismus - kriptorkismus
+Kudis - kudis
+Kuku - kuku
+Kulit - kulit
+Kulit Bersisik - kulit-bersisik
+Kultur Dahak - kultur-dahak
+Kultur Darah - kultur-darah
+Kultur Urine - kultur-urine
+Kurap - kurap
+Kuret - kuret
+Kuretase - kuretase
+Kusta - kusta
+Kutil - kutil
+Kutil Kelamin - kutil-kelamin
+Kutu Air - kutu-air
+Kutu Kemaluan - kutu-kemaluan
+Kutu Rambut - kutu-rambut
+Lansoprazole - lansoprazole
+Laparoskopi - laparoskopi
+Laparotomi - laparotomi
+Laringitis - laringitis
+Lasik - lasik
+Lemah Jantung - lemah-jantung
+Lensa Kontak - lensa-kontak
+Lentigo - lentigo
+Leptospirosis - leptospirosis
+Leukemia - leukemia
+Leukemia - leukimia
+Leukoplakia - leukoplakia
+Leukositosis - leukositosis
+Levofloxacin - levofloxacin
+Levonorgestrel - levonorgestrel
+Lichen Planus - lichen-planus
+Lidah - lidah
+Limfadenitis - limfadenitis
+Limfadenopati - limfadenopati
+Limfedema - limfedema
+Limfoma - limfoma
+Limfoma Non Hodgkin - limfoma-non-hodgkin
+Lipoma - lipoma
+Loperamide - loperamide
+Loratadine - loratadine
+Lorazepam - lorazepam
+Low Back Pain - low-back-pain
+Luka - luka
+Luka Bakar - luka-bakar
+Luka Infeksi - luka-infeksi
+Lumpuh Otak - lumpuh-otak
+Lupus - lupus
+Lupus Nefritis - lupus-nefritis
+Maag - maag
+Mabuk Perjalanan - mabuk-perjalanan
+Magnesium Hidroksida - magnesium-hidroksida
+Malabsorpsi Makanan - malabsorpsi-makanan
+Malaria - malaria
+Malnutrisi Energi Protein - malnutrisi-energi-protein
+Mammografi - mammografi
+Masa Subur - masa-subur
+Mastalgia - mastalgia
+Mastitis - mastitis
+Mastoiditis - mastoiditis
+Masturbasi - masturbasi
+Mata - mata
+Mata Ikan - mata-ikan
+Mata Juling - mata-juling
+Mata Kering - mata-kering
+Mata Lelah - mata-lelah
+Mata Malas - mata-malas
+Mata Merah - mata-merah
+Mata Minus - mata-minus
+Mati Rasa - mati-rasa
+Mebendazole - mebendazole
+Medical Check Up - medical-check-up
+Medical Check Up Karyawan - medical-check-up-karyawan
+Megakolon - megakolon
+Melahirkan - melahirkan
+Melahirkan Normal - melahirkan-normal
+Melanoma - melanoma
+Melena - melena
+Meloxicam - meloxicam
+Mendengkur - mendengkur
+Menggigil - menggigil
+Meningioma - meningioma
+Meningitis - meningitis
+Menopause - menopause
+Menorrhagia - menorraghia
+Menorrhagia - menorrhagia
+Menstruasi - menstruasi
+Menyusui - menyusui
+Merencanakan Kehamilan - merencanakan-kehamilan
+Merokok - merokok
+Mers - mers
+Metabolisme - metabolisme
+Metamfetamin - metamfetamin
+Metamizole - metamizole
+Metformin - metformin
+Methisoprinol - methisoprinol
+Methylprednisolone - methylprednisolon
+Methylprednisolone - methylprednisolone
+Metoclopramide - metoclopramide
+Metronidazole - metronidazole
+Miconazole - miconazole
+Migrain - migrain
+Mikrosefali - mikrosefali
+Milia - milia
+Mimisan - mimisan
+Mimpi Buruk - mimpi-buruk
+Mineral - mineral
+Minoxidil - minoxidil
+Miokarditis - miokarditis
+Miom - miom
+Misoprostol - misoprostol
+Molluscum Contagiosum - molluscum-contagiosum
+Morfin - morfin
+Morning Sickness - morning-sickness
+Mpasi - mpasi
+Mri - mri
+Mual - mual
+Mukokel - mukokel
+Multiple Myeloma - multiple-myeloma
+Multiple Sclerosis - multiple-sclerosis
+Mulut - mulut
+Mulut Kering - mulut-kering
+Muntah - muntah
+Muntah Darah - muntah-darah
+Myalgia - myalgia
+Myasthenia Gravis - myasthenia-gravis
+Narkoba - narkoba
+Narkolepsi - narkolepsi
+Natrium Bikarbonat - natrium-bikarbonat
+Neomycin - neomycin
+Neuritis Optik - neuritis-optik
+Neurodermatitis - neurodermatitis
+Neurofibromatosis Tipe 1 - neurofibromatosis-tipe
+Neurofibromatosis Tipe 2 - neurofibromatosis-tipe-2
+Neuroma Akustik - neuroma-akustik
+Neuropati - neuropati
+Neuropati Diabetik - neuropati-diabetik
+Neuropati Perifer - neuropati-perifer
+Nifas - nifas
+Nifedipine - nifedipine
+Nistagmus - nistagmus
+Norethisterone - norethisterone
+Nsaid - nsaid
+Nutrisi - nutrisi
+Nutrisi Anak - nutrisi-anak
+Nutrisi Bayi - nutrisi-bayi
+Nutrisi Ibu Hamil - nutrisi-ibu-hamil
+Nutrisi Ibu Menyusui - nutrisi-ibu-menyusui
+Nutrisi Lansia - nutrisi-lansia
+Nutrisi Penyakit Kronis - nutrisi-penyakit-kronis
+Nyeri Abdomen - nyeri-abdomen
+Nyeri Anus - nyeri-anus
+Nyeri Dada - nyeri-dada
+Nyeri Haid - nyeri-haid
+Nyeri Lutut - nyeri-lutut
+Nyeri Otot - nyeri-otot
+Nyeri Payudara - nyeri-payudara
+Nyeri Pergelangan Tangan - nyeri-pergelangan-tangan
+Nyeri Perut - nyeri-perut
+Nyeri Punggung - nyeri-punggung
+Nyeri Sendi - nyeri-sendi
+Nyeri Tumit - nyeri-tumit
+Nystatin - nystatin
+Obat - obat
+Obat Antihipertensi - obat-antihipertensi
+Obat Antivirus - obat-antivirus
+Obat Bius - obat-bius
+Obat Digestan - obat-digestan
+Obat Pencahar - obat-pencahar
+Obesitas - obesitas
+Obstruksi Usus - obstruksi-usus
+Ocd - ocd
+Ofloxacin - ofloxacin
+Olahraga - olahraga
+Omeprazole - omeprazole
+Ondansetron - ondansetron
+Operasi - operasi
+Operasi Bypass Jantung - operasi-bypass-jantung
+Operasi Caesar - operasi-caesar
+Operasi Hernia Dengan Laparoskopi - operasi-hernia-dengan-laparoskopi
+Operasi Hidung - operasi-hidung
+Operasi Katarak - operasi-katarak
+Operasi Katup Jantung - operasi-katup-jantung
+Operasi Kelopak Mata - operasi-kelopak-mata
+Operasi Muskuloskeletal - operasi-muskuloskeletal
+Operasi Payudara - operasi-payudara
+Operasi Prostat - operasi-prostat
+Operasi Rahang - operasi-rahang
+Operasi Reproduksi - operasi-reproduksi
+Operasi Sesar - operasi-sesar
+Operasi Tulang Belakang - operasi-tulang-belakang
+Operasi Usus Buntu - operasi-usus-buntu
+Orang Tua - orang-tua
+Orchitis - orchitis
+Orlistat - orlistat
+Osteoarthritis - osteoarthritis
+Osteofit - osteofit
+Osteomalacia - osteomalacia
+Osteomyelitis - osteomyelitis
+Osteopetrosis - osteopetrosis
+Osteoporosis - osteoporosis
+Otitis Eksterna - otitis-eksterna
+Otitis Media - otitis-media
+Otomikosis - otomikosis
+Ovulasi - ovulasi
+Pankreatitis Akut - pankreatitis-akut
+Pankreatitis Kronis - pankreatitis-kronis
+Pantoprazole - pantoprazole
+Panu - panu
+Pap Smear - pap-smear
+Papaverine - papaverine
+Paracetamol - paracetamol
+Parafimosis - parafimosis
+Paranoid - paranoid
+Paraplegia - paraplegia
+Paratifus - paratifus
+Parenting - parenting
+Parestesia - parestesia
+Paronikia - paronikia
+Parotitis - parotitis
+Paru Paru - paru-paru
+Pasangan - pasangan
+Patah Kaki - patah-kaki
+Patah Pergelangan Kaki - patah-pergelangan-kaki
+Patah Pergelangan Tangan - patah-pergelangan-tangan
+Patah Tangan - patah-tangan
+Patah Tulang - patah-tulang
+Patah Tulang Pinggul - patah-tulang-pinggul
+Patah Tulang Selangka - patah-tulang-selangka
+Payudara - payudara
+Pcos - pcos
+Pcr - pcrs
+Pemasangan Kawat Gigi - pemasangan-kawat-gigi
+Pembengkakan Kelenjar Getah Bening - pembengkakan-kelenjar-getah-bening
+Pembengkakan Otak - pembengkakan-otak
+Pembersihan Telinga - pembersihan-telinga
+Pemeriksaan Bta - pemeriksaan-bta
+Pemeriksaan Feses - pemeriksaan-feses
+Pemeriksaan Fungsi Ginjal - pemeriksaan-fungsi-ginjal
+Pemeriksaan Jantung - pemeriksaan-jantung
+Pemeriksaan Medis Kejiwaan - pemeriksaan-medis-kejiwaan
+Pemeriksaan Penyakit Infeksi - pemeriksaan-penyakit-infeksi
+Pemeriksaan Radiologi - pemeriksaan-radiologi
+Pemeriksaan Sperma - pemeriksaan-sperma
+Pemeriksaan Torch - pemeriksaan-torch
+Pemfigoid Bulosa - pemfigoid-bulosa
+Pemutihan Gigi - pemutihan-gigi
+Pemutihan Kulit - pemutihan-kulit
+Pengobatan Alternatif - pengobatan-alternatif
+Penicillin Vk - penicillin-vk
+Peningkatan Berat Badan - peningkatan-berat-badan
+Penisilin - penisilin
+Penuaan - penuaan
+Penurunan Kesadaran - penurunan-kesadaran
+Penyakit Addison - penyakit-addison
+Penyakit Arteri Perifer - penyakit-arteri-perifer
+Penyakit Autoimun - penyakit-autoimun
+Penyakit Beri Beri - penyakit-beri-beri
+Penyakit Buerger - penyakit-buerger
+Penyakit Celiac - penyakit-celiac
+Penyakit Chron - penyakit-chron
+Penyakit Ginjal - penyakit-ginjal
+Penyakit Ginjal Polikistik - penyakit-ginjal-polikistik
+Penyakit Graves - penyakit-graves
+Penyakit Hashimoto - penyakit-hashimoto
+Penyakit Hati Terkait Alkohol - penyakit-hati-terkait-alkohol
+Penyakit Hirschsprung - penyakit-hirschsprung
+Penyakit Infeksi - penyakit-infeksi
+Penyakit Jantung - penyakit-jantung
+Penyakit Jantung Bawaan - penyakit-jantung-bawaan
+Penyakit Jantung Koroner - penyakit-jantung-koroner
+Penyakit Jantung Reumatik - penyakit-jantung-reumatik
+Penyakit Katup Jantung - penyakit-katup-jantung
+Penyakit Kawasaki - penyakit-kawasaki
+Penyakit Kuning - penyakit-kuning
+Penyakit Liver - penyakit-liver
+Penyakit Lyme - penyakit-lyme
+Penyakit Mata - penyakit-mata
+Penyakit Meniere - penyakit-meniere
+Penyakit Menular Seksual - penyakit-menular-seksual
+Penyakit Paget - penyakit-paget
+Penyakit Parkinson - penyakit-parkinson
+Penyakit Paru Interstisial - penyakit-paru-interstisial
+Penyakit Paru Obstruktif Kronis - penyakit-paru-obstruktif-kronis
+Penyakit Paru Paru - penyakit-paru-paru
+Penyakit Peyronie - penyakit-peyronie
+Penyakit Radang Pinggul - penyakit-radang-panggul
+Penyakit Radang Pinggul - penyakit-radang-pinggul
+Penyakit Retina - penyakit-retina
+Penyakit Saraf Motorik - penyakit-saraf-motorik
+Penyakit Tangan Kaki Dan Mulut - penyakit-tangan-kaki-dan-mulut
+Penyakit Tiroid - penyakit-tiroid
+Penyakit Von Willebrand - penyakit-von-willebrand
+Penyalahgunaan Napza - penyalahgunaan-napza
+Perawatan Kulit - perawatan-kulit
+Perawatan Luka - perawatan-luka
+Perawatan Pria - perawatan-pria
+Perawatan Saluran Akar Gigi - perawatan-saluran-akar-gigi
+Percobaan Bunuh Diri - percobaan-bunuh-diri
+Perdarahan Pasca Melahirkan - perdarahan-pasca-melahirkan
+Perdarahan Pascamelahirkan - perdarahan-pascamelahirkan
+Perdarahan Saluran Pencernaan - perdarahan-saluran-pencernaan
+Perdarahan Subarachnoid - perdarahan-subarachnoid
+Perdarahan Subkonjungtiva - perdarahan-subkonjungtiva
+Pergelangan Kaki Terkilir - pergelangan-kaki-terkilir
+Perikarditis - perikarditis
+Perimenopause - perimenopause
+Periodontitis - periodontitis
+Peritonitis - peritonitis
+Permethrin - permethrin
+Perut Kembung - perut-kembung
+Phenobarbital - phenobarbital
+Phenytoin - phenytoin
+Phlebitis - phlebitis
+Pil Kb - pil-kb
+Pilek - pilek
+Pingsan - pingsan
+Piracetam - piracetam
+Piroxicam - piroxicam
+Pityriasis Rosea - pityriasis-rosea
+Plantar Fasciitis - plantar-fasciitis
+Plasenta Abruption - plasenta-abruption
+Plasenta Previa - plasenta-previa
+Pleuritis - pleuritis
+Pneumonia - pneumonia
+Pneumothorax - pneumothorax
+Polihidramnion - polihidramnion
+Polio - polio
+Polip - polip
+Polip Hidung - polip-hidung
+Polip Pulpa - polip-pulpa
+Polip Rahim - polip-rahim
+Polip Usus - polip-usus
+Polisitemia Vera - polisitemia-vera
+Polusi - polusi
+Pompholyx - pompholyx
+Postpartum Depression - postpartum-depression
+Povidone Iodine - povidone-iodine
+Ppok - ppok
+Prediabetes - prediabetes
+Prednisolone - prednisolone
+Prednison - prednison
+Preeklamsia - preeklamsia
+Pregabalin - pregabalin
+Premenstrual Syndrome - premenstrual-syndrome
+Presbiopi - presbiopi
+Priapismus - priapismus
+Probiotik - probiotik
+Progesteron - progesteron
+Program Hamil - program-hamil
+Proktitis - proktitis
+Prolaps Uterus - prolaps-uterus
+Propranolol - propranolol
+Prostatitis - prostatitis
+Protein - protein
+Prurigo - prurigo
+Pruritus - pruritus
+Pseudoephedrine - pseudoephedrine
+Psikologi - psikologi
+Psikosis - psikosis
+Psikosomatis - psikosomatis
+Psoriasis - psoriasis
+Pterygium - pterygium
+Ptosis - ptosis
+Ptsd - ptsd
+Puasa - puasa
+Pubertas - pubertas
+Pubertas Dini - pubertas-dini
+Pusing - pusing
+Pyrazinamid - pyrazinamid
+Rabies - rabies
+Rabun Dekat - rabun-dekat
+Rabun Jauh - rabun-jauh
+Rabun Senja - rabun-senja
+Radang Empedu - radang-empedu
+Radang Gusi - radang-gusi
+Radang Otak - radang-otak
+Radang Panggul - radang-panggul
+Radang Payudara - radang-payudara
+Radang Sendi - radang-sendi
+Radang Tenggorokan - radang-tenggorokan
+Radang Usus - radang-usus
+Radioterapi - radioterapi
+Rakitis - rakitis
+Rambut - rambut
+Rambut Rontok - rambut-rontok
+Rambut Tumbuh Ke Dalam - rambut-tumbuh-ke-dalam
+Ranitidin - ranitidin
+Rapid Test - rapid-test
+Relaksasi - relaksasi
+Remaja - remaja
+Rematik - rematik
+Retardasi Mental - retardasi-mental
+Retensi Plasenta - retensi-plasenta
+Retinoblastoma - retinoblastoma
+Retinoic Acid - retinoic-acid
+Retinoid - retinoid
+Retinopati Diabetik - retinopati-diabetik
+Rheumatoid Arthritis - rheumatoid-arthritis
+Rhinitis - rhinitis
+Rhinitis Alergi - rhinitis-alergi
+Rifampicin - rifampicin
+Rinitis Alergi - rinitis-alergi
+Risperidone - risperidone
+Rosacea - rosacea
+Roseola - roseola
+Ruam Kulit - ruam-kulit
+Ruam Merah - ruam-merah
+Ruam Popok - ruam-popok
+Rubella - rubella
+Rumah Sakit - rumah-sakit
+Sakit Dada - sakit-dada
+Sakit Gigi - sakit-gigi
+Sakit Jiwa - sakit-jiwa
+Sakit Kaki - sakit-kaki
+Sakit Kepala - sakit-kepala
+Sakit Kepala Cluster - sakit-kepala-cluster
+Sakit Kepala Tegang - sakit-kepala-tegang
+Sakit Leher - sakit-leher
+Sakit Lutut - sakit-lutut
+Sakit Maag - sakit-maag
+Sakit Mata - sakit-mata
+Sakit Perut - sakit-perut
+Sakit Pinggang - sakit-pinggang
+Sakit Punggung - sakit-punggung
+Sakit Saraf - sakit-saraf
+Sakit Syaraf - sakit-syaraf
+Sakit Telinga - sakit-telinga
+Sakit Tenggorokan - sakit-tenggorokan
+Salbutamol - salbutamol
+Sariawan - sariawan
+Sarkoma Jaringan Lunak - sarkoma-jaringan-lunak
+Virus Corona - sars-cov-2
+Scaling Gigi - scaling-gigi
+Selulitis - selulitis
+Sendawa - sendawa
+Sengatan Lebah - sengatan-lebah
+Sepsis - sepsis
+Serangan Jantung - serangan-jantung
+Serangan Panik - serangan-panik
+Sertraline - sertraline
+Servisitis - servisitis
+Sesak Napas - sesak-napas
+Sifilis - sifilis
+Siklus Haid - siklus-haid
+Sildenafil - sildenafil
+Simvastatin - simvastatin
+Sindrom Cushing - sindrom-cushing
+Sindrom Guillain Barre - sindrom-guillain-barre
+Sindrom Klinefelter - sindrom-klinefelter
+Sindrom Marfan - sindrom-marfan
+Sindrom Metabolik - sindrom-metabolik
+Sindrom Mielodisplasia - sindrom-mielodisplasia
+Sindrom Nefrotik - sindrom-nefrotik
+Sindrom Raynaud - sindrom-raynaud
+Sindrom Stevens Johnson - sindrom-stevens-johnson
+Sindrom Tourette - sindrom-tourette
+Sindrom Turner - sindrom-turner
+Sinusitis - sinusitis
+Sirosis - sirosis
+Sirosis Hepatis - sirosis-hepatis
+Sistem Endokrin - sistem-endokrin
+Sistem Imun - sistem-imun
+Sistem Integumen - sistem-integumen
+Sistem Kardiovaskular - sistem-kardiovaskular
+Sistem Muskuloskeletal - sistem-muskuloskeletal
+Sistem Pencernaan - sistem-pencernaan
+Sistem Pernapasan - sistem-pernapasan
+Sistem Reproduksi - sistem-reproduksi
+Sistem Saraf - sistem-saraf
+Sistem Urinaria - sistem-urinaria
+Sistokel - sistokel
+Sistoskopi - sistoskopi
+Skabies - skabies
+Skiatika - skiatika
+Skizofrenia - skizofrenia
+Skizofrenia Paranoid - skizofrenia-paranoid
+Skoliosis - skoliosis
+Skrining Sifilis - skrining-sifilis
+Sleep Apnea - sleep-apnea
+Solar Keratosis - solar-keratosis
+Solusio Plasenta - solusio-plasenta
+Spasmofilia - spasmofilia
+Spermatokel - spermatokel
+Spina Bifida - spina-bifida
+Spiramycin - spiramycin
+Spironolactone - spironolactone
+Splenomegali - splenomegali
+Spondilosis Servikal - spondilosis-servikal
+Spondylolisthesis - spondylolisthesis
+Stem Cell - stem-cell
+Stenosis Spinal - stenosis-spinal
+Sterilisasi - sterilisasi
+Stres - stres
+Stretchmark - stretchmark
+Striktur Uretra - striktur-uretra
+Stroke - stroke
+Stroke Hemoragik - stroke-hemoragik
+Stunting - stunting
+Suara Serak - suara-serak
+Sukralfat - sukralfat
+Sunat - sunat
+Suplemen - suplemen
+Susu - susu
+Syaraf Terjepit - syaraf-terjepit
+Syok - syok
+Syok Anafilaktik - syok-anafilaktik
+Syok Hipovolemik - syok-hipovolemik
+Tadalafil - tadalafil
+Tahi Lalat - tahi-lalat
+Takikardia - takikardia
+Tambal Gigi - tambal-gigi
+Tamoxifen - tamoxifen
+Tanda Lahir - tanda-lahir
+Tbc - tbc
+Tbc Tulang Belakang - tbc-tulang-belakang
+Teh Jati Cina - teh-jati-cina
+Tekanan Darah - tekanan-darah
+Telat Haid - telat-haid
+Telat Menstruasi - telat-menstruasi
+Telinga - telinga
+Telinga Berdenging - telinga-berdenging
+Tendinitis - tendinitis
+Teofilin - teofilin
+Terapi Oksigen Hiperbarik - terapi-oksigen-hiperbarik
+Terapi Penggantian Hormon - terapi-penggantian-hormon
+Terapi Perilaku Kognitif - terapi-perilaku-kognitif
+Tes Alergi - tes-alergi
+Tes Covid 19 - tes-covid
+Tes Fungsi Paru - tes-fungsi-paru
+Tes Hiv - tes-hiv
+Tes Pendengaran - tes-pendengaran
+Tes Urine - tes-urine
+Testosterone - testosterone
+Testpack - testpack
+Tetanus - tetanus
+Tetracycline - tetracycline
+Tetralogy Of Fallot - tetralogy-of-fallot
+Thalassemia - thalassemia
+Thiamphenicol - thiamphenicol
+Tia - tia
+Tidur - tidur
+Tifus - tifus
+Tinea Capitis - tinea-capitis
+Tinea Corporis - tinea-corporis
+Tinea Cruris - tinea-cruris
+Tinggi Badan - tinggi-badan
+Tinnitus - tinnitus
+Tiroiditis - tiroiditis
+Tmj (Temporamandibular Junction) - tmj
+Tmj (Temporamandibular Junction) - tmj-temporamandibular-junction
+Toksoplasmosis - toksoplasmosis
+Tongue Tie - tongue-tie
+Tonsilitis - tonsilitis
+Torsio Testis - torsio-testis
+Tortikolis - tortikolis
+Tramadol - tramadol
+Transfusi Darah - transfusi-darah
+Transgender - transgender
+Transplantasi Ginjal - transplantasi-ginjal
+Transplantasi Sumsum Tulang - transplantasi-sumsum-tulang
+Trauma - trauma
+Trauma Kepala Berat - trauma-kepala-berat
+Trauma Kepala Ringan - trauma-kepala-ringan
+Travel - travel
+Tremor - tremor
+Tretinoin - tretinoin
+Triamcinolone - triamcinolone
+Triamcinolone Semprot Hidung - triamcinolone-semprot-hidung
+Trigeminal Neuralgia - trigeminal-neuralgia
+Trigliserida - trigliserida
+Trihexyphenidyl - trihexyphenidyl
+Trikomoniasis - trikomoniasis
+Trikotilomania - trikotilomania
+Tromboflebitis - tromboflebitis
+Trombosis Vena - trombosis-vena
+Trombositopenia - trombositopenia
+Trombositosis - trombositosis
+Tubektomi - tubektomi
+Tuberkulosis - tuberkulosis
+Tukak Lambung - tukak-lambung
+Tulang - tulang
+Tumbuh Kembang - tumbuh-kembang
+Tumor - tumor
+Tumor Jinak Parotis - tumor-jinak-parotis
+Tumor Kelenjar Air Liur - tumor-kelenjar-air-liur
+Tumor Otak - tumor-otak
+Tumor Pankreas - tumor-pankreas
+Tumor Payudara - tumor-payudara
+Turun Peranakan - turun-peranakan
+Uji Fungsi Hati - uji-fungsi-hati
+Ulkus Dekubitus - ulkus-dekubitus
+Ulkus Duodenum - ulkus-duodenum
+Ulkus Kornea - ulkus-kornea
+Urtikaria - urtikaria
+Usg - usg
+Usg Program Hamil - usg-program-hamil
+Usus Buntu - usus-buntu
+Uveitis - uveitis
+Uvulitis - uvulitis
+Vagina - vagina
+Vaginismus - vaginismus
+Vaginitis - vaginitis
+Vaginosis - vaginosis
+Vaginosis Bakterialis - vaginosis-bakterialis
+Vaksin - vaksin
+Vaksin Bcg - vaksin-bcg
+Vaksin Campak - vaksin-campak
+Vaksin Covid 19 - vaksin-covid-19-1
+Vaksin Dpt - vaksin-dpt
+Vaksin Hepatitis B - vaksin-hepatitis-b
+Vaksin Hpv - vaksin-hpv
+Vaksin Mmr - vaksin-mmr
+Vaksin Polio - vaksin-polio
+Vaksinasi - vaksinasi
+Vaksinasi Difteri - vaksinasi-difteri
+Valacyclovir - valacyclovir
+Valsartan - valsartan
+Varikokel - varikokel
+Varises - varises
+Varises Esofagus - varises-esofagus
+Vasektomi - vasektomi
+Vaskulitis - vaskulitis
+Veneer Gigi - veneer-gigi
+Vertigo - vertigo
+Virus - virus
+Virus Zika - virus-zika
+Vitamin - vitamin
+Vitamin A - vitamin-a
+Vitamin B - vitamin-b
+Vitamin B1 - vitamin-b1
+Vitamin B12 - vitamin-b12
+Vitamin B3 - vitamin-b3
+Vitamin B6 - vitamin-b6
+Vitamin B9 - vitamin-b9
+Vitamin C - vitamin-c
+Vitamin D - vitamin-d
+Vitamin E - vitamin-e
+Vitamin K - vitamin-k
+Vitiligo - vitiligo
+Vulvitis - vulvitis
+Wajah - wajah
+Warfarin - warfarin
+Wasir - wasir
+Xanthelasma - xanthelasma
+Xerophthalmia - xerophthalmia
+Xerosis - xerosis
+Zat Kimia - zat-kimia
+Zinc Sulphate - zinc-sulphate
